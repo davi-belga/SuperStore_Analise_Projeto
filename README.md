@@ -97,7 +97,7 @@ Cada visão é representada pelo seguinte conjunto de métricas.
 # Top 4 insights de dados
   1. Lucro por categoria:
 
-     A categoria que traz o maior lucro pra empresa é : Technology
+     A categoria que traz o maior lucro pra empresa é, Technology
         
   2. Média de produto por cliente:
 
