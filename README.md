@@ -95,16 +95,18 @@ Cada visão é representada pelo seguinte conjunto de métricas.
    Análise foi feita no ano  2014, período de  12 meses
         
 # Top 4 insights de dados
-  1. Lucro por categoria,
+  1. Lucro por categoria:
+
      A categoria que traz o maior lucro pra empresa é : Technology
         
   2. Média de produto por cliente:
+
      Em média, são de 2 a 3 produtos por clientes
         
-  3. Distribuição e Lucratividade (Geografia e Categoria):
+  3. Distribuição geografia por volume de pedido 
     
      A distribuição dos pedidos por Região e Categoria de Produto, comparada ao volume de pedidos
-     "A Região 'Sul', tem menor volume de pedidos, o que está acontecendo? Tempo de entrega demorando muito? Um ponto a ser analisado."
+     A Região 'Sul', tem menor volume de pedidos, o que está acontecendo? Tempo de entrega demorando muito? Um ponto a ser analisado.
         
   4. Cohot--> queda drástica inicial:
  
