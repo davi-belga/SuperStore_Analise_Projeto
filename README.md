@@ -106,7 +106,7 @@ Cada visão é representada pelo seguinte conjunto de métricas.
      A distribuição dos pedidos por Região e Categoria de Produto, comparada ao volume de pedidos
      "A Região 'Sul', tem menor volume de pedidos, o que está acontecendo? Tempo de entrega demorando muito? Um ponto a ser analisado."
         
-  4. Cohot queda Drástica Inicial:
+  4. Cohot--> queda drástica inicial:
  
   **Insight Chave:** O negócio tem uma perda de clientes muito acentuada após o primeiro mês.
   **Detalhe:** Observe que a maioria das coortes (as linhas) cai para menos de 50% de retenção no Mês 1 e continua caindo rapidamente nos meses subsequentes. 
@@ -119,9 +119,10 @@ Cada visão é representada pelo seguinte conjunto de métricas.
     
 # Conclusão
    
-   O objetive desse projeto FOI cria um conjunto de gráficos ou tabelaS que exibam essas métricas da melhor forma possível para o CEO.
-  Da visão da Empresa, podemos concluir que entre os anos de 2014-2017, mesmo com uma grande queda no número percentual da retenção dos clientes logo no segundo mês,
-  a Empresa segue com um crescimento de 28% no número de pedidos
+   O objetive desse projeto foi cria um conjunto de gráficos ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
+  
+Da visão da Empresa, podemos concluir que entre os anos de 2014-2017, mesmo com uma grande queda no número percentual da retenção dos clientes logo no segundo mês,
+ a Empresa segue com um crescimento de 28% no número de pedidos
 
 
 
