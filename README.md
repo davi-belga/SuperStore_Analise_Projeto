@@ -1,4 +1,4 @@
-
+# Análise de Retenção de Clientes e Lucratividade (Case SuperStore)
 <img width="1024" height="1024" alt="Gemini_Generated_Image_vbcaetvbcaetvbca" src="https://github.com/user-attachments/assets/fd1ba14a-52cf-4b10-b400-c058fd93c403" />
 
 # 1. Problema de negócio
